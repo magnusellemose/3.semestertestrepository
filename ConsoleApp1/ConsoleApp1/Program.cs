@@ -8,6 +8,7 @@ namespace ConsoleApp1
         {
             Console.WriteLine("No admin rights for anyone!!!!");
             Console.WriteLine("This should work! Hopefully...");
+            Console.WriteLine("Can somebody check this out?");
         }
     }
 }
